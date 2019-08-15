@@ -1,0 +1,270 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml:2:1-55:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\500878c744df8b74dc2359a9f09efc83\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\9fcb02a5b5d0ea511aa3c5ef7ae7fe8a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\5f89715541fd2a1850f057e0ed3258e7\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\796ffae24f80efb58a67885e0f457e93\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\0fd35c675d9236826e99337795f41495\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\0f8bed26bf8eb410ef1a166fa58ac5f1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\3b5068fc4f5e049f0feb8e629805b1fc\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\5c50bc4cd03627a398b6f7a25a004b48\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\85f9ac4ff6b88a037865caa53b8e7eda\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\f02c6aa8a19b79ace6ea83ee38fedc13\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\2ea53cce9c128404176bf84b9bcfc3ee\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\7c4d43ddaf2716832106a77db5dfe08c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\5bb144b66871b52be32e6d93934aa5a0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\05d532124b72f6587d76a54e1b852b91\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\8aeafed6fd6ed7554942d5794dc2a53d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\95194b602d52f72a1a5609f64286b556\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\b9c38acc7b3ee8bfd03533f50e493b8c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\17d4c45c787874a57877a2a491f1c199\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\d44c5547648ac1a8d7f3d46f9913e104\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\fc78a143eb2217985337f319f340baa5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\ca0df3cf82a7cc5a1f3778893cec9182\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\3e28530f9de12151b9345581111c8926\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\cac04cd2352d3a6085ef9cfb307dddc3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\07be87f5fa51fe0c80ba5e69e2f1feb5\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\f51c5691519382087a55a20e390d0239\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\558d2195989f59d3cc8d10a91c2d6ddc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\003e0ddcba0e4973c659cd2aff7ef566\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\a8b3354ab59639e23906cc39d9be2bfc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\d042fa77e63e3c8328772d478ca70dfb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\e2cbabac1d6e303a040b22132153eace\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\3226f852a84cf2af61b179cdaaa70a8a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\3f186dc4d4eedb55f565399869460d5f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\d52cc8b22284f699ba7d4dfd42ea4efe\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\99c39854613af075ef6fa4ac5f7a87ae\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\d79b0f8b5e624b38ec9f9820a7bd58b0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml:2:1-55:12
+	package
+		ADDED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml:2:1-55:12
+		INJECTED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml:2:1-55:12
+		INJECTED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml:9:22-76
+application
+ADDED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml:11:5-53:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\500878c744df8b74dc2359a9f09efc83\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\500878c744df8b74dc2359a9f09efc83\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\5f89715541fd2a1850f057e0ed3258e7\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\5f89715541fd2a1850f057e0ed3258e7\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\796ffae24f80efb58a67885e0f457e93\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\796ffae24f80efb58a67885e0f457e93\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\0fd35c675d9236826e99337795f41495\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\0fd35c675d9236826e99337795f41495\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\0f8bed26bf8eb410ef1a166fa58ac5f1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\0f8bed26bf8eb410ef1a166fa58ac5f1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\3b5068fc4f5e049f0feb8e629805b1fc\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\3b5068fc4f5e049f0feb8e629805b1fc\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.1] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\cac04cd2352d3a6085ef9cfb307dddc3\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\cac04cd2352d3a6085ef9cfb307dddc3\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\07be87f5fa51fe0c80ba5e69e2f1feb5\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\07be87f5fa51fe0c80ba5e69e2f1feb5\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\cac04cd2352d3a6085ef9cfb307dddc3\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml:17:9-67
+activity#com.example.refricare.ejemplosdatos
+ADDED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml:18:9-20:50
+	android:parentActivityName
+		ADDED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml:19:13-55
+	android:label
+		ADDED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml:20:13-38
+	android:name
+		ADDED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml:18:19-48
+activity#com.example.refricare.direccion
+ADDED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml:21:9-23:45
+	android:parentActivityName
+		ADDED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml:22:13-55
+	android:label
+		ADDED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml:23:13-43
+	android:name
+		ADDED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml:21:19-44
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml:32:9-34:55
+	android:value
+		ADDED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml:34:13-52
+	android:name
+		ADDED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml:33:13-58
+meta-data#preloaded_fonts
+ADDED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml:35:9-37:57
+	android:resource
+		ADDED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml:37:13-54
+	android:name
+		ADDED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml:36:13-43
+activity#com.example.refricare.MapsActivity
+ADDED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml:39:9-41:59
+	android:label
+		ADDED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml:41:13-56
+	android:name
+		ADDED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml:40:13-41
+activity#com.example.refricare.MapActivity
+ADDED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml:42:9-49
+	android:name
+		ADDED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml:42:19-46
+activity#com.example.refricare.RegistroRefrigerador
+ADDED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml:43:9-45:58
+	android:parentActivityName
+		ADDED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml:45:13-55
+	android:name
+		ADDED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml:44:13-49
+activity#com.example.refricare.MainActivity
+ADDED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml:46:9-52:20
+	android:name
+		ADDED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml:46:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml:47:13-51:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml:48:17-69
+	android:name
+		ADDED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml:48:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml:50:17-77
+	android:name
+		ADDED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml:50:27-74
+uses-sdk
+INJECTED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\500878c744df8b74dc2359a9f09efc83\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\500878c744df8b74dc2359a9f09efc83\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\9fcb02a5b5d0ea511aa3c5ef7ae7fe8a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\9fcb02a5b5d0ea511aa3c5ef7ae7fe8a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\5f89715541fd2a1850f057e0ed3258e7\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\5f89715541fd2a1850f057e0ed3258e7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\796ffae24f80efb58a67885e0f457e93\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\796ffae24f80efb58a67885e0f457e93\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\0fd35c675d9236826e99337795f41495\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\0fd35c675d9236826e99337795f41495\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\0f8bed26bf8eb410ef1a166fa58ac5f1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\0f8bed26bf8eb410ef1a166fa58ac5f1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\3b5068fc4f5e049f0feb8e629805b1fc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\3b5068fc4f5e049f0feb8e629805b1fc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\5c50bc4cd03627a398b6f7a25a004b48\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\5c50bc4cd03627a398b6f7a25a004b48\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\85f9ac4ff6b88a037865caa53b8e7eda\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\85f9ac4ff6b88a037865caa53b8e7eda\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\f02c6aa8a19b79ace6ea83ee38fedc13\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\f02c6aa8a19b79ace6ea83ee38fedc13\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\2ea53cce9c128404176bf84b9bcfc3ee\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\2ea53cce9c128404176bf84b9bcfc3ee\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\7c4d43ddaf2716832106a77db5dfe08c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\7c4d43ddaf2716832106a77db5dfe08c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\5bb144b66871b52be32e6d93934aa5a0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\5bb144b66871b52be32e6d93934aa5a0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\05d532124b72f6587d76a54e1b852b91\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\05d532124b72f6587d76a54e1b852b91\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\8aeafed6fd6ed7554942d5794dc2a53d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\8aeafed6fd6ed7554942d5794dc2a53d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\95194b602d52f72a1a5609f64286b556\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\95194b602d52f72a1a5609f64286b556\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\b9c38acc7b3ee8bfd03533f50e493b8c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\b9c38acc7b3ee8bfd03533f50e493b8c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\17d4c45c787874a57877a2a491f1c199\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\17d4c45c787874a57877a2a491f1c199\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\d44c5547648ac1a8d7f3d46f9913e104\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\d44c5547648ac1a8d7f3d46f9913e104\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\fc78a143eb2217985337f319f340baa5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\fc78a143eb2217985337f319f340baa5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\ca0df3cf82a7cc5a1f3778893cec9182\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\ca0df3cf82a7cc5a1f3778893cec9182\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\3e28530f9de12151b9345581111c8926\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\3e28530f9de12151b9345581111c8926\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\cac04cd2352d3a6085ef9cfb307dddc3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\cac04cd2352d3a6085ef9cfb307dddc3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\07be87f5fa51fe0c80ba5e69e2f1feb5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\07be87f5fa51fe0c80ba5e69e2f1feb5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\f51c5691519382087a55a20e390d0239\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\f51c5691519382087a55a20e390d0239\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\558d2195989f59d3cc8d10a91c2d6ddc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\558d2195989f59d3cc8d10a91c2d6ddc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\003e0ddcba0e4973c659cd2aff7ef566\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\003e0ddcba0e4973c659cd2aff7ef566\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\a8b3354ab59639e23906cc39d9be2bfc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\a8b3354ab59639e23906cc39d9be2bfc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\d042fa77e63e3c8328772d478ca70dfb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\d042fa77e63e3c8328772d478ca70dfb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\e2cbabac1d6e303a040b22132153eace\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\e2cbabac1d6e303a040b22132153eace\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\3226f852a84cf2af61b179cdaaa70a8a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\3226f852a84cf2af61b179cdaaa70a8a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\3f186dc4d4eedb55f565399869460d5f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\3f186dc4d4eedb55f565399869460d5f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\d52cc8b22284f699ba7d4dfd42ea4efe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\d52cc8b22284f699ba7d4dfd42ea4efe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\99c39854613af075ef6fa4ac5f7a87ae\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\99c39854613af075ef6fa4ac5f7a87ae\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\d79b0f8b5e624b38ec9f9820a7bd58b0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\d79b0f8b5e624b38ec9f9820a7bd58b0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Clau\AndroidStudioProjects\RefriCare2\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\796ffae24f80efb58a67885e0f457e93\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\796ffae24f80efb58a67885e0f457e93\AndroidManifest.xml:23:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\796ffae24f80efb58a67885e0f457e93\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\796ffae24f80efb58a67885e0f457e93\AndroidManifest.xml:24:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\796ffae24f80efb58a67885e0f457e93\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\796ffae24f80efb58a67885e0f457e93\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\796ffae24f80efb58a67885e0f457e93\AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\796ffae24f80efb58a67885e0f457e93\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\796ffae24f80efb58a67885e0f457e93\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\796ffae24f80efb58a67885e0f457e93\AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\0fd35c675d9236826e99337795f41495\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\0fd35c675d9236826e99337795f41495\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\0fd35c675d9236826e99337795f41495\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\0fd35c675d9236826e99337795f41495\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\3b5068fc4f5e049f0feb8e629805b1fc\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\3b5068fc4f5e049f0feb8e629805b1fc\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Clau\.gradle\caches\transforms-2\files-2.1\3b5068fc4f5e049f0feb8e629805b1fc\AndroidManifest.xml:24:13-58
